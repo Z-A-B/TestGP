@@ -1,2 +1,1 @@
-#petitpotam{visibility:hidden;}
-#petitpotam>span{border:red 1px solid;}
+
